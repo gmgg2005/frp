@@ -1,0 +1,13 @@
+[frp888]
+
+type = http
+
+local_ip = 192.168.2.2
+
+local_port = 80
+
+remote_port = 8081
+
+custom_domains = hbhome.frpzj.lu8.win
+
+EOF
